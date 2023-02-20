@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQpnesjVYW+ukJ+mTVxtq1xz650TI2fGq9KGPQs8pe7QAk751qfLz7JZCDFkTek8Gxd+vHRKq80jUvFJfrL6Sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91790\\Desktop\\dotnet\\CsvHelperAndJson\\CsvHelperAndJson\\CsvHelperAndJson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91790\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\91790\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
